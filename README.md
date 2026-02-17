@@ -8,4 +8,4 @@ README dosyasına proje açıklaması eklendi"
 "Yeni özellik: Karanlık mod desteği eklendi"
 "Kod refactor: Tekrar eden kodlar fonksiyona çevrildi"
 "Initial commit – proje başlatıldı"
-
+PARTY BAŞLADI
